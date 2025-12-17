@@ -1,8 +1,15 @@
 
+🚀 About Me
+I'm Chauhan-saab2006 - a developer on a journey to learn, create, and contribute to the open-source community. Whether it's exploring new technologies, solving complex problems, or collaborating with fellow developers, I'm always eager to grow my skills and share knowledge.
 
-# 💫 About Me:
-I am currently working on self improvement <br>I am looking for collaboration on github . LinkedIn <br>I am looking for making network <br>I am currently learning <br>Ask me about my projects , my work<br>
+💻 What I Do
+I'm actively working on various projects and continuously expanding my technical expertise. My GitHub is a reflection of my learning path, experiments, and contributions to the world of software development.
 
+🌱 Currently
+Building and maintaining repositories that showcase my skills
+Learning new frameworks, languages, and development practices
+Engaging with the GitHub community through collaboration and contributions
+Exploring innovative solutions to real-world problems
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](   https://www.instagram.com/code___miestro?igsh=MW10MXc4NjdkcG5oNA==  ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](   https://www.linkedin.com/in/ashwani-chauhan-a66369377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app    ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Codemiestro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ac6845578@gmail.com) 
