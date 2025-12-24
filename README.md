@@ -3,7 +3,7 @@
 ​I'm Chauhan-saab2006, a developer dedicated to learning and contributing to the open-source community. I enjoy solving complex problems, exploring new technologies, and building projects that bridge the gap between ideas and real-world solutions.
 ​Would you like me to add a "Skills" or "Tech Stack" section to go along with this?
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](   https://www.instagram.com/code___miestro?igsh=MW10MXc4NjdkcG5oNA==  )  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ac6845578@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](   [https://www.instagram.com/code___miestro?igsh=MW10MXc4NjdkcG5oNA==](https://www.instagram.com/ashwanichauhan868?igsh=NjVjcXE3M2h2MTU=)  )  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ac6845578@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](   https://www.linkedin.com/in/ashwani-chauhan-a66369377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app    )
 
 # 💻 Tech Stack:
