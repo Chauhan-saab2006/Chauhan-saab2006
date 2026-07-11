@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashwani Chauhan</h1>
 <h3 align="center">I am a passionate Software Developer and Cybersecurity Enthusiast from India with a strong interest in building secure, scalable, and user-friendly applications. I enjoy developing modern software solutions while continuously exploring the fields of ethical hacking, network security, and application security. I am committed to writing clean, efficient code, learning emerging technologies, and solving real-world problems through innovation. My goal is to bridge the gap between software development and cybersecurity by creating applications that are not only functional but also secure by design.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan-saab2006&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan-saab2006" /> </p>
 
