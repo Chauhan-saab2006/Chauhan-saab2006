@@ -36,7 +36,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chauhan-saab2006&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Chauhan-saab2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
