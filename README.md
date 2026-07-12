@@ -37,7 +37,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chauhan-saab2006&theme=tokyonight&hide_border=true&cache_seconds=0" />
+  <img src="https://streak-stats.demolab.com?user=chauhan-saab2006&theme=tokyonight&hide_border=true" />
 </p>
 
 
