@@ -36,10 +36,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h2 align="center">📊 GitHub Stats</h2>
 
 
+https://streak-stats.demolab.com?user=chauhan-saab2006&theme=tokyonight&hide_border=true&cache_seconds=0
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chauhan-saab2006&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhan-saab2006&theme=tokyo-night&hide_border=true" />
