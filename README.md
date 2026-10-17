@@ -33,11 +33,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chauhan-saab2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 <p align="center">
